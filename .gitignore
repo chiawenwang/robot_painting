@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+.matplotlib-cache/
+mujoco_painting_outputs/
+
+.DS_Store
+
+piper_isaac_sim/
+piper_ros/
+piper_sdk/

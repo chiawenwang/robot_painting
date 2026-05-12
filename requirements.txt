@@ -1,0 +1,7 @@
+mujoco
+numpy
+matplotlib
+imageio
+imageio-ffmpeg
+pillow
+ipython
