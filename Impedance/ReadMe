@@ -1,0 +1,8 @@
+The current controller is not a strict torque-level direct impedance controller. 
+In terms of its input-output relationship, the outer loop along the X direction is more accurately described as admittance-type control because it converts contact-force error into a position correction.
+However, from the perspective of the overall implementation architecture, it can reasonably be classified as a position-based indirect impedance controller.
+
+This description captures three important characteristics:
+1. A virtual mass-damping-stiffness relationship is designed in Cartesian space along the wall-normal X direction.
+2. Force error is converted into a motion command, so the outer loop is admittance-type.
+3. The final command is a joint-position reference rather than a joint torque, so the implementation is position-based and indirect.
