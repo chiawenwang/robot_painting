@@ -9,3 +9,8 @@ mujoco_painting_outputs/
 piper_isaac_sim/
 piper_ros/
 piper_sdk/
+
+# Large media files — store locally, submit via Google Drive
+submission/videos/*.mp4
+submission/videos/*.mov
+submission/final_report/*.pdf
