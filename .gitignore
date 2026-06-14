@@ -13,4 +13,4 @@ piper_sdk/
 # Large media files — store locally, submit via Google Drive
 submission/videos/*.mp4
 submission/videos/*.mov
-submission/final_report/*.pdf
+# submission/final_report/*.pdf

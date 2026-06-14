@@ -10,7 +10,7 @@ robot_painting/
 │
 ├── code_sim/                # Simulation code (MuJoCo)
 │   ├── MuJoCo_test_1205.py
-│   └── 0524.py
+│   └── sim.py
 │
 ├── src/
 │   └── mujoco-learning/     # MuJoCo learning utilities (submodule)
@@ -23,20 +23,3 @@ robot_painting/
 │
 └── requirements.txt
 ```
-
-## Submission Checklist (Due 11:59 PM PT, June 13)
-
-### Google Drive / UCLA Box folder (`X_Report folder`)
-- [ ] Comprehensive technical report (PDF, IEEE format)
-- [ ] Project code in native format
-- [ ] Final presentation (.ppt)
-- [ ] Demo video(s) (.mp4) — **REQUIRED**
-
-### Turnitin (Bruin Learn → Project resources → [P.7])
-Combined single searchable PDF containing:
-- [ ] Project report
-- [ ] Custom project code (printed to PDF)
-- [ ] Final presentation
-
-### Gradescope
-- [ ] Project Effort Evaluation Form — `X_Lastname.pdf` (individual submission, -5% penalty if missing)
