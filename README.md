@@ -18,7 +18,7 @@ robot_painting/
 ├── submission/              # Course submission materials
 │   ├── final_report/        # IEEE-format PDF report
 │   ├── slides/              # Final presentation (.ppt)
-│   ├── videos/              # Demo videos (.mp4) — REQUIRED by instructor
+│   ├── videos/              # Demo videos (.mp4)
 │   └── figures/             # Figures, plots, screenshots used in the report
 │
 └── requirements.txt
